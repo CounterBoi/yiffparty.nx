@@ -1,1 +1,1 @@
-# yiffparty.nx.github.io
+# yiffparty.nx
